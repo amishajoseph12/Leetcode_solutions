@@ -1,2 +1,2 @@
-# C program Leetcode_solutions
+# C programming Leetcode_solutions
 A collection of the leetcode problems that I solve
